@@ -21,6 +21,7 @@
 // Forward Declarations
 class ElementIntegralUserObject;
 
+
 template<>
 InputParameters validParams<ElementIntegralUserObject>();
 
